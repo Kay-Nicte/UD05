@@ -51,5 +51,4 @@ public class Ejercicio11 {
 			JOptionPane.showMessageDialog(null, day+" no es un día. Escoge un día.");
 		}
 	}
-
 }
